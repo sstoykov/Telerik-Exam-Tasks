@@ -1,7 +1,0 @@
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Speeds\bin\Debug\Speeds.exe.config
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Speeds\bin\Debug\Speeds.exe
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Speeds\bin\Debug\Speeds.pdb
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Speeds\obj\Debug\Speeds.csprojAssemblyReference.cache
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Speeds\obj\Debug\Speeds.csproj.CoreCompileInputs.cache
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Speeds\obj\Debug\Speeds.exe
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Speeds\obj\Debug\Speeds.pdb

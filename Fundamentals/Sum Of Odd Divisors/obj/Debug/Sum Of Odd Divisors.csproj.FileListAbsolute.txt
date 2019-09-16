@@ -1,6 +1,0 @@
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Sum Of Odd Divisors\bin\Debug\Sum Of Odd Divisors.exe.config
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Sum Of Odd Divisors\bin\Debug\Sum Of Odd Divisors.exe
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Sum Of Odd Divisors\bin\Debug\Sum Of Odd Divisors.pdb
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Sum Of Odd Divisors\obj\Debug\Sum Of Odd Divisors.csproj.CoreCompileInputs.cache
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Sum Of Odd Divisors\obj\Debug\Sum Of Odd Divisors.exe
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Sum Of Odd Divisors\obj\Debug\Sum Of Odd Divisors.pdb

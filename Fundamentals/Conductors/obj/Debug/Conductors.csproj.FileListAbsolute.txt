@@ -1,7 +1,0 @@
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Conductors\bin\Debug\Conductors.exe.config
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Conductors\bin\Debug\Conductors.exe
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Conductors\bin\Debug\Conductors.pdb
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Conductors\obj\Debug\Conductors.csprojAssemblyReference.cache
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Conductors\obj\Debug\Conductors.csproj.CoreCompileInputs.cache
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Conductors\obj\Debug\Conductors.exe
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Conductors\obj\Debug\Conductors.pdb

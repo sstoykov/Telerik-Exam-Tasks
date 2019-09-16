@@ -1,7 +1,0 @@
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Mutant Squirrels\bin\Debug\Mutant Squirrels.exe.config
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Mutant Squirrels\bin\Debug\Mutant Squirrels.exe
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Mutant Squirrels\bin\Debug\Mutant Squirrels.pdb
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Mutant Squirrels\obj\Debug\Mutant Squirrels.csprojAssemblyReference.cache
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Mutant Squirrels\obj\Debug\Mutant Squirrels.csproj.CoreCompileInputs.cache
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Mutant Squirrels\obj\Debug\Mutant Squirrels.exe
-D:\Git\MyGit\Telerik-Exam-Tasks\Fundamentals\Mutant Squirrels\obj\Debug\Mutant Squirrels.pdb
